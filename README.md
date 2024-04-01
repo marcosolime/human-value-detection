@@ -1,6 +1,6 @@
 # Assignement 2 - Human Value Detection Challenge
 
-## Task description.
+## Task description
 We address the task of [Human Value Detection](https://aclanthology.org/2022.acl-long.306/), a typical multi-label classification problem, using BERT-based models.
 
 Each sample in the training set consists of 3 arguments: premise, conclusion, and stance.
