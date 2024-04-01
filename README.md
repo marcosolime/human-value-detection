@@ -5,8 +5,6 @@ We address the task of [Human Value Detection](https://aclanthology.org/2022.acl
 
 Each sample in the training set consists of 3 arguments: premise, conclusion, and stance.
 
-![Human values](/img/human_values.png)
-
 E.g.:
 - premise: fast food should be banned because it is really bad for your health and is costly.
 - conclusion: we should ban fast food
